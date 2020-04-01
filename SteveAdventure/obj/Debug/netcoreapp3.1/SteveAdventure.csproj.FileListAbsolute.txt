@@ -1,0 +1,11 @@
+D:\riderprojects\SteveAdventure\SteveAdventure\bin\Debug\netcoreapp3.1\SteveAdventure.exe
+D:\riderprojects\SteveAdventure\SteveAdventure\bin\Debug\netcoreapp3.1\SteveAdventure.deps.json
+D:\riderprojects\SteveAdventure\SteveAdventure\bin\Debug\netcoreapp3.1\SteveAdventure.runtimeconfig.json
+D:\riderprojects\SteveAdventure\SteveAdventure\bin\Debug\netcoreapp3.1\SteveAdventure.runtimeconfig.dev.json
+D:\riderprojects\SteveAdventure\SteveAdventure\bin\Debug\netcoreapp3.1\SteveAdventure.dll
+D:\riderprojects\SteveAdventure\SteveAdventure\bin\Debug\netcoreapp3.1\SteveAdventure.pdb
+D:\riderprojects\SteveAdventure\SteveAdventure\obj\Debug\netcoreapp3.1\SteveAdventure.csprojAssemblyReference.cache
+D:\riderprojects\SteveAdventure\SteveAdventure\obj\Debug\netcoreapp3.1\SteveAdventure.AssemblyInfoInputs.cache
+D:\riderprojects\SteveAdventure\SteveAdventure\obj\Debug\netcoreapp3.1\SteveAdventure.AssemblyInfo.cs
+D:\riderprojects\SteveAdventure\SteveAdventure\obj\Debug\netcoreapp3.1\SteveAdventure.dll
+D:\riderprojects\SteveAdventure\SteveAdventure\obj\Debug\netcoreapp3.1\SteveAdventure.pdb
